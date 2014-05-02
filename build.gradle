@@ -32,7 +32,7 @@ tasks.withType(AbstractCompile).each {
 }
 
 wrapper {
-    gradleVersion '1.11'
+    gradleVersion '1.12'
 }
 
 task prepared << { 
